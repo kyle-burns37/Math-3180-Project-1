@@ -1,3 +1,7 @@
+# Dataset
+
+Documentation for the dataset we are using can be found here: https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
+
 # Presentation Guidelines
 
 (From Campuswire and the [Assignment page](https://jeremy9959.net/Math-3180-UConn/project.html))
@@ -20,5 +24,3 @@ as well as other methods that we will discuss in the next few weeks, together wi
 + Our presentation should begin with at least a brief discussion of the mathematics underlying the algorithms you use in your analysis.
 + Include visualizations that illuminate your work.
 + Presentation should be no longer than 13 minutes (time limit strictly enforced).
-
-
